@@ -1,3 +1,5 @@
+//BATMAN SYMBOL USING BEZIER CURVE
+
 #include<GL/glut.h>
 #include<math.h>
 #include<stdio.h>
